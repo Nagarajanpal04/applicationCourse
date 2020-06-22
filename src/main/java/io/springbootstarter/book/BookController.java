@@ -2,7 +2,6 @@ package io.springbootstarter.book;
 
 import java.util.List;
 
-import javax.xml.ws.RequestWrapper;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PathVariable;
