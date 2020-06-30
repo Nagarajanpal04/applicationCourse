@@ -18,7 +18,7 @@ public class BookController {
 	
 	@RequestMapping("/")
 	public String landingPage() {
-		return "Application has been automated";
+		return "Spring boot Application has been automated";
 	}
 	
 	@RequestMapping("/book")
